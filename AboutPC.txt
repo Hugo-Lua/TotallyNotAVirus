@@ -1,0 +1,808 @@
+
+ 
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+88.21.84.91Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+88.21.84.91Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+88.21.84.91Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+88.21.84.91Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+88.21.84.91Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+88.21.84.91Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+88.21.84.91Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+88.21.84.91Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+84.126.35.70Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+84.126.35.70Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+84.126.35.70Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+84.126.35.70Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+84.126.35.70Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+84.126.35.70Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+84.126.35.70Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+84.126.35.70Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+84.126.35.70Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+84.126.35.70Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+84.126.35.70Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+84.126.35.70Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+84.126.35.70Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+84.126.35.70Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+84.126.35.70Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+84.126.35.70Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+84.126.35.70Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+84.126.35.70Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+84.126.35.70Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+84.126.35.70Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+84.126.35.70Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+84.126.35.70Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
+Architecture : 
+('64bit', 'WindowsPE')
+Computer Name : 
+DESKTOP-LC54QL2
+Operating System : 
+Windows-10-10.0.19044-SP0
+Processor : 
+Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Full CPU Name : 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHzTotal RAM : 
+15.82 GB
+GPU Information : 
+Intel(R) UHD Graphics
+ 
+ ------------------------------------ 
+ 
+84.126.35.70Computers Latitude : 
+39.5661
+Computers Longitude :  
+2.6487
+Computers City :  
+Palma
+Computers Region :  
+Balearic Islands
+Computers Country :  
+Spain
